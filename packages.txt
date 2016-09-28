@@ -1,0 +1,9 @@
+Sublime-Style-Column-Selection@1.7.2
+atom-beautify@0.29.12
+file-icons@1.7.19
+multi-cursor@2.1.3
+project-manager@3.2.3
+tablr@1.5.3
+term3@0.22.1
+
+

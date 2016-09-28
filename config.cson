@@ -1,0 +1,34 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "e2e84049-0350-493d-abc0-a58a80df13d2"
+  core:
+    closeEmptyWindows: false
+    destroyEmptyPanes: false
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      ".git"
+    ]
+    projectHome: "/Users/takayanagi/Document/高柳作業用フォルダ/00_業務全般"
+  editor:
+    fontFamily: "Ricty Diminished"
+    fontSize: 15
+    zoomFontWhenCtrlScrolling: true
+  "exception-reporting":
+    userId: "c7f9118f-dc76-0388-f117-e2da57ffc7fb"
+  tablr:
+    csvEditor:
+      encoding: "Japanese (Shift JIS)"
+    defaultColumnNamingMethod: "numeric"
+  tabs:
+    addNewTabsAtEnd: true
+    enableVcsColoring: true
+    tabScrollingThreshold: 5
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
