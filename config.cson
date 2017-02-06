@@ -14,13 +14,19 @@
       "Thumbs.db"
       ".git"
     ]
+    packagesWithKeymapsDisabled: [
+      "git-blame"
+    ]
     projectHome: "/Users/takayanagi/Document/高柳作業用フォルダ/00_業務全般"
+    telemetryConsent: "no"
   editor:
+    autoIndent: false
     fontFamily: "Ricty Diminished"
-    fontSize: 15
-    zoomFontWhenCtrlScrolling: true
   "exception-reporting":
     userId: "c7f9118f-dc76-0388-f117-e2da57ffc7fb"
+  "git-plus":
+    general:
+      _analyticsUserId: "66f73fdb-75d6-42ed-b707-18cd583a9d10"
   tablr:
     csvEditor:
       encoding: "Japanese (Shift JIS)"
@@ -29,6 +35,10 @@
     addNewTabsAtEnd: true
     enableVcsColoring: true
     tabScrollingThreshold: 5
-  "tree-view": {}
+  "tree-view":
+    autoReveal: true
+    hideIgnoredNames: true
   welcome:
     showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false

@@ -1,11 +1,15 @@
 Sublime-Style-Column-Selection@1.7.2
-atom-beautify@0.29.13
-file-icons@1.7.19
-linter@1.11.16
-linter-ruby@1.2.2
-multi-cursor@2.1.3
-project-manager@3.2.3
-tablr@1.5.3
-term3@0.22.1
-
+atom-beautify@0.29.17
+file-icons@2.0.14
+git-blame@0.4.11
+git-plus@7.2.0
+intentions@1.1.2
+lines@0.13.1
+linter@1.11.21
+linter-ruby@1.2.4
+linter-xmllint@1.4.0
+multi-cursor@2.1.5
+open-terminal-here@2.1.5
+project-manager@3.3.3
+tablr@1.8.1
 
